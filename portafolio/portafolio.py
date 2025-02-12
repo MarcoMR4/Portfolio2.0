@@ -1,4 +1,5 @@
 import reflex as rx
+
 from portafolio import data
 from portafolio.styles.styles import BASE_STYLE, MAX_WIDTH, STYLESHEETS, EmSize, Size
 from portafolio.views.about import about
@@ -39,7 +40,7 @@ app = rx.App(
     style=BASE_STYLE,
     theme=rx.theme(
         appearance="dark",
-        accent_color="grass",
+        accent_color="jade",
         radius="full"
     )
 )
