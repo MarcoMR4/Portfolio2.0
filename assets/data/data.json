@@ -101,6 +101,28 @@
     "projects": [
         {
             "icon": "laptop",
+            "title": "QSS",
+            "subtitle": "WebSite",
+            "description": "Sitio web informativo de consultora.",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
+                }, 
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                }
+            ],
+            "image": "/project_3.jpg",
+            "github": "https://github.com/MarcoMR4/QSS-WebSite"
+        },
+        {
+            "icon": "laptop",
             "title": "Generador de reportes PDF",
             "subtitle": "Aplicación de escritorio",
             "description": "Aplicación para la captura de datos y con estos generar y descargar documentos PDF. ",
