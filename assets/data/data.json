@@ -119,7 +119,31 @@
                 }
             ],
             "image": "/project_3.jpg",
+            "url": "https://marcomr-qss-web-site.vercel.app/index.html",
             "github": "https://github.com/MarcoMR4/QSS-WebSite"
+        },
+        {
+            "icon": "laptop",
+            "title": "Calculador de presupuesto",
+            "subtitle": "WebApp",
+            "description": "Aplicación para calcular presupuesto personal y descargar PDF usando POO con JS.",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css-plain",
+                    "name": "CSS"
+                }, 
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                }
+            ],
+            "image": "/project_4.png",
+            "url": "https://marcomr-presupuesto1.vercel.app/",
+            "github": "https://github.com/MarcoMR4/Presupuesto1"
         },
         {
             "icon": "laptop",
@@ -184,7 +208,7 @@
     ],
     "extras": [
         {
-            "image": "sgt2.png",
+            "image": "SGT2.png",
             "title": "Sistema de Gestión de Tutorías",
             "description": "Participé en este proyecto.",
             "url": "https://github.com/MarcoMR4/Sistema-Gestor-de-Tutorias"
