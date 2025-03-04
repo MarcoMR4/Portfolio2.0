@@ -124,6 +124,29 @@
         },
         {
             "icon": "laptop",
+            "title": "Star Wars Wiki",
+            "subtitle": "WebSite",
+            "description": "Detalles de personajes de Star Wars",
+            "technologies": [
+                {
+                    "icon": "devicon-react-plain",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
+                }, 
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                }
+            ],
+            "image": "/project_5.png",
+            "url": "https://marcomr-sw-wiki-one.vercel.app/",
+            "github": "https://github.com/MarcoMR4/SW-Wiki"
+        },
+        {
+            "icon": "laptop",
             "title": "Calculador de presupuesto",
             "subtitle": "WebApp",
             "description": "Aplicación para calcular presupuesto personal y descargar PDF usando POO con JS.",
