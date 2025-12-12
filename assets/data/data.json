@@ -1,10 +1,10 @@
 {
     "title": "Marco Mercado | Portafolio",
-    "description": "Hola, soy Marco, un desarrollador apasionado por el aprendizaje.",
+    "description": "Hola, soy Marco, un desarrollador apasionado por el aprendizaje continuo.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
     "name": "Marco Mercado Rodríguez",
-    "skill": "Desarrollador Full Stack",
+    "skill": "Desarrollador de software Full-Stack",
     "location": "Morelia, México",
     "media": {
         "email": "marcomr9641@gmail.com",
@@ -12,7 +12,7 @@
         "github": "https://github.com/MarcoMR4",
         "likedin": "https://www.linkedin.com/in/marco-mercado-rodriguez-b462aa264/"
     },
-    "about": "Desarrollador de software Full Stack. Mis áreas de interés son el desarrollo web de Backend y APIs, así como el análisis de datos. Me apasionan la creatividad y la resolución de problemas. Cuento con 2 años de experiencia.",
+    "about": "Ingeniero en Sistemas Computacionales con más de 1 año de experiencia profesional en Desarrollo Web construyendo APIs REST, componentes UI reutilizables y trabajando con flujos de desarrollo modernos.",
     "technologies": [
         {
             "icon": "devicon-javascript-plain",
@@ -23,16 +23,20 @@
             "name": "PHP"
         },
         {
+            "icon": "devicon-vuejs-plain",
+            "name": "Vue.js"
+        },
+        {
+            "icon": "devicon-django-plain",
+            "name": "Django"
+        },
+        {
             "icon": "devicon-react-plain",
             "name": "React.js"
         },
         {
             "icon": "devicon-nodejs-plain",
             "name": "Node.js"
-        },
-        {
-            "icon": "devicon-vuejs-plain",
-            "name": "Vue.js"
         },
         {
             "icon": "devicon-java-plain",
@@ -78,6 +82,13 @@
     "experience": [
         {
             "icon": "terminal",
+            "title": "Tezil S.A. de C.V.",
+            "subtitle": "Desarrollador Web Full Stack",
+            "description": "Participé en el desarrollo de una plataforma web de trazabilidad de productos agrícolas.",
+            "date": "mar 2025 - oct 2025"
+        },
+        {
+            "icon": "terminal",
             "title": "Clever Cloud MX",
             "subtitle": "Desarrollador Web Full Stack",
             "description": "Participé en el desarrollo de un ERP web y la implementación de un módulo de facturación electrónica.",
@@ -99,6 +110,29 @@
         }
     ],
     "projects": [
+        {
+            "icon": "laptop",
+            "title": "Song learning tracker",
+            "subtitle": "WebApp",
+            "description": "Aplicación para gestionar el seguimiento de aprendizaje de canciones en varios instrumentos.",
+            "technologies": [
+                {
+                    "icon": "devicon-vuejs-plain",
+                    "name": "Vue.js"
+                },
+                {
+                    "icon": "devicon-nuxtjs-plain",
+                    "name": "Nuxt.js"
+                },
+                {
+                    "icon": "devicon-supabase-plain",
+                    "name": "Supabase (Auth & Backend)"
+                }
+            ],
+            "image": "/project_6.jpg",
+            "url": "https://song-learning-tracker-frontend.vercel.app",
+            "github": "https://github.com/MarcoMR4/song-learning-tracker-frontend"
+        },
         {
             "icon": "laptop",
             "title": "QSS",
